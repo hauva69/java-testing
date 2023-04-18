@@ -2,6 +2,10 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
+/*
+https://stackoverflow.com/questions/652161/how-do-i-convert-between-iso-8859-1-and-utf-8-in-java
+https://howtodoinjava.com/java/io/read-file-content-into-byte-array/
+ */
 public class Latin1ToUtf8 {
     static final String FILE = "skandeja.txt";
 
